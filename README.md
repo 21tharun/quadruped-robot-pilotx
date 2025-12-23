@@ -129,7 +129,7 @@ PlannerX is used for:
 The video below shows the robotic dog performing walking, posture transitions,
 and interactive movements.
 
-
+https://drive.google.com/file/d/1hcLNPdLPWunHJggNl2L8P3Ao6JtzBRQv/view?usp=sharing
 
 ---
 
